@@ -1,0 +1,14 @@
+INFO:root:We are calling our add function.
+INFO:root:add function executed, task completed.
+INFO:root:We are calling our add function.
+INFO:root:add function executed, task completed.
+INFO:root:We are calling our is_even function.
+INFO:root:is_even function executed, task completed.
+2022-02-25 00:06:28,351-root-INFO-We are calling our add function.
+2022-02-25 00:06:28,405-root-INFO-add function executed, task completed.
+2022-02-25 00:06:28,406-root-INFO-We are calling our is_even function.
+2022-02-25 00:06:28,435-root-INFO-is_even function executed, task completed.
+2022-02-25 00:06:43,902-root-INFO-We are calling our add function.
+2022-02-25 00:06:43,938-root-INFO-add function executed, task completed.
+2022-02-25 00:06:43,940-root-INFO-We are calling our is_even function.
+2022-02-25 00:06:43,961-root-INFO-is_even function executed, task completed.

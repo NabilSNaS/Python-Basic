@@ -1,0 +1,5 @@
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "D:/python exercise/testt.py", line 11, in <module>
+    temp=a/b
+ZeroDivisionError: division by zero
